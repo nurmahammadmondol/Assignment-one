@@ -211,7 +211,7 @@ main {
   width: 100%;
   padding: 40px;
   border-radius: 20px;
-  border: 1px solid gray;
+  border: 0.1px solid #f8f8f8;
 }
 .vedeo {
   border-radius: 20px;
