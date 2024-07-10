@@ -311,7 +311,7 @@ main {
   margin-bottom: 25px;
 }
 .support-section-tittle p {
-  color: gray;
+  color: #b2b2b2;
   font-size: 16px;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -334,3 +334,29 @@ main {
   border-radius: 7px;
   cursor: pointer;
 }
+/* Support-section-Start  */
+
+/* footer-section-start  */
+footer {
+  margin-top: 30px;
+}
+.footer-all-items {
+  height: 70px;
+  width: 100%;
+  padding: 0 50px;
+  background-color: #f6f6f2;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  /* border: 3px solid black; */
+}
+.footer-icon {
+  font-size: 40px;
+}
+.footer-icon a {
+  color: black;
+  margin-left: 20px;
+  text-decoration: none;
+}
+/* footer-section-end  */
