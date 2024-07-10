@@ -218,7 +218,7 @@ main {
 }
 /* section-Two-start  */
 .section-there {
-  margin-top: 200px;
+  margin-top: 150px;
 }
 .my-current-target {
   display: flex;
@@ -257,7 +257,6 @@ main {
   color: black;
   font-size: 18px;
   font-weight: 600;
-  margin-bottom: 10px;
 }
 .item-html {
   width: 32%;
