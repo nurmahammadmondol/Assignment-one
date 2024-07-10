@@ -1,0 +1,223 @@
+.azeret-mono-google-mama {
+  font-family: 'Azeret Mono', monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main {
+  max-width: 1200px;
+  /* border: 2px solid red; */
+  margin: 0 auto;
+}
+.headeing {
+  height: 20px;
+  background-color: white;
+}
+/* .......Full-Banner-Start.......  */
+.Full-Banner {
+  max-height: 600px;
+  width: 100%;
+  border: 0.1px solid white;
+  background-image: url(../assets/Hero-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Banner-Contenter {
+  width: 950px;
+  height: 500px;
+  text-align: center;
+  margin: 80px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  /* border: 2px solid black; */
+}
+.Content-img {
+  height: 210px;
+  width: 210px;
+}
+.content-Tittle {
+  background-color: white;
+}
+.content-Tittle h2 {
+  font-size: 33px;
+  margin-bottom: 20px;
+  font-weight: bolder;
+}
+.content-Tittle p {
+  color: gray;
+  font-size: 12px;
+}
+.Content-img img {
+  height: 100%;
+  width: 100%;
+}
+.Banner-Btn .btn {
+  border: none;
+  margin-top: 25px;
+}
+.Banner-Btn a {
+  color: white;
+  text-decoration: none;
+  background-color: #0d1321;
+  border-radius: 7px;
+  font-size: 17px;
+  padding: 15px 20px;
+}
+/* .......Full-Banner-End.......  */
+
+/* Main-Containt-Start */
+
+/* section-One-start */
+.section-one {
+  margin-top: 100px;
+}
+
+.about-web-development {
+  padding: 40px;
+  background-color: #fcfcfa;
+}
+/* web-development-tittle-Start */
+.web-development-tittle {
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 15px;
+
+  /* border: 2px solid red; */
+}
+.web-development-tittle h3 {
+  font-size: 27px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.web-development-tittle p {
+  color: gray;
+  font-size: 13px;
+}
+/* web-development-tittle-End */
+
+/* web-development-detales-Start */
+.web-development-detales {
+  color: gray;
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.web-development-detales h4 {
+  color: #404040;
+  font-size: 19px;
+  font-weight: bolder;
+  margin-bottom: 20px;
+}
+.web-development-detales p {
+  font-size: 11px;
+  margin-bottom: 30px;
+}
+.web-development-detales .btn {
+  font-size: 16px;
+  padding: 8px 15px;
+  color: gray;
+  border: 1px solid gray;
+  cursor: pointer;
+}
+.items-one {
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.items-one .items-one-detales {
+  width: 45%;
+}
+
+.items-two {
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.items-two .items-two-detales {
+  width: 55%;
+}
+
+.items-there {
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.items-there .items-there-detales {
+  width: 45%;
+}
+
+.detales-img,
+.items-two-img,
+.items-there-img {
+  width: 350px;
+  height: 250px;
+}
+.web-development-detales img {
+  height: 100%;
+  width: 100%;
+}
+/* web-development-detales-Start */
+
+/* section-One-End */
+
+/* section-Two-start  */
+.section-two {
+  margin-top: 80px;
+}
+.Section-two-Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+.Section-two-Container h4 {
+  font-size: 20px;
+  margin: 20px 0;
+}
+.Section-two-Container p {
+  color: gray;
+  font-size: 13px;
+}
+.Section-two-tittle {
+  width: 85%;
+  text-align: center;
+}
+
+.Section-two-vedio {
+  height: 700px;
+  width: 100%;
+  padding: 40px;
+  border-radius: 20px;
+  border: 1px solid gray;
+}
+.vedeo {
+  border-radius: 20px;
+}
+/* section-Two-start  */
+.section-there {
+  margin-top: 200px;
+}
+.my-current-target {
+}
